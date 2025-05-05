@@ -5,4 +5,4 @@ This repository provides a comprehensive collection of practical exercises desig
 ## Contact
 Mariano J. Lenkiewicz</br>
 e-mail: [mariano.javier.lenkiewicz@gmail.com](mailto:mariano.javier.lenkiewicz@gmail.com)  
-Project Link: [https://github.com/mjlenkiewicz/SOLIDITY_Examples](https://github.com/mjlenkiewicz/SOLIDITY_Examples)# solidity-examples
+Project Link: [https://github.com/mjlenkiewicz/solidity-examples](https://github.com/mjlenkiewicz/solidity-examples)
